@@ -20,4 +20,4 @@ when started the program will ask:
  
  Demo
  
- ![](readme-generator.gif)
+ ![demo gif](readme-generator.gif)
