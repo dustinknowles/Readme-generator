@@ -18,6 +18,3 @@ when started the program will ask:
  
  and it will compile that information into a pushable readme for the users project!
  
- Demo
- 
- ![demo gif](readme-generator.gif)
